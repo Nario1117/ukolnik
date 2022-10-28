@@ -1,0 +1,57 @@
+.text {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 6.5px;
+}
+.text2 {
+    color: #4a4a4a;
+    text-decoration-line: line-through;
+}
+
+.buttonB {
+    border: 0px solid #212125;
+    border-radius: 4px;
+    background-color: #0069ff;
+    color: white;
+    padding: 7px;
+}
+.buttonG {
+    border: 0px solid #212125;
+    border-radius: 4px;
+    background-color: #307646;
+    color: white;
+    padding: 7px;
+}
+.buttonR {
+    border: 0px solid #212125;
+    border-radius: 4px;
+    background-color: #b00e0e;
+    color: white;
+    padding: 7px;
+}
+body{
+    font-family: Arial;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.borderB{
+    padding: 8px;
+    border: 1px solid gray;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 0 0 0 0;
+    border-top-color: white;
+}
+.borderT{
+    padding: 8px;
+    border: 1px solid gray;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 0 0 0 0;
+}
+.borderNormal{
+    padding: 8px;
+    border: 1px solid gray;
+    margin: 0 0 0 0;
+    border-radius: 5px;
+}
